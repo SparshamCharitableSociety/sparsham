@@ -40,3 +40,5 @@ social:
   name : Sparsham
   links: ["http://www.twitter.com/SparshamOrg","https://www.facebook.com/SparshamCharitableSociety","https://plus.google.com/SparshamCharitableSociety","https://in.linkedin.com/in/SparshamCharitableSociety","https://www.youtube.com/channel/UC98FbpEB4PvgOYq1GKCtOgQ"]
 google_site_verification: g12yfu4dXlcHcAPxbSApkXdqkPZwuxOeqj8q7pANb4E
+
+theme: jekyll-theme-minimal
