@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Blood Donation Drive"
-subtitle: "Blood Donation Drive"
+title: "Independence Day Celebrations 2012"
+subtitle: "Independence Day Celebrations 2012"
 date: 2012-08-15 03:48
 author: "Sparsham"
 comments: true
