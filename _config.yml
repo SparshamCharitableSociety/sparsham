@@ -18,7 +18,7 @@ kramdown:
   syntax_highlighter: rouge
 highlighter: rouge
 permalink: /:title/
-paginate: 4
+paginate: 3
 showFeed : true
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 gems:
