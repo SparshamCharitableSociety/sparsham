@@ -2,7 +2,7 @@
 layout: post
 title: "Onam inside a Tribal Settlement , Palakkad"
 subtitle: "Onam inside a Tribal Settlemens  , Palakkad"
-date: 2015-01-25 03:48
+date: 2017-09-25 03:48
 author: "Sparsham"
 comments: true
 categories: [Sparsham, Tribal Settlement, Onam]
