@@ -18,24 +18,25 @@ layout: compress
   #overlay { background: #ffffff; color: #666666; position: fixed; height: 100%; width: 100%; z-index: 5000; top: 0; left: 0; float: left; text-align: center; padding-top: 25%; }
   </style>
   <script type="text/javascript">
-    //navigator.serviceWorker.getRegistrations().then(function (registrations) {
-    //    if (!registrations.length) {
-    //      console.log('No serviceWorker registrations found.')
-    //      return
-    //    }
-    //    for (let registration of registrations) {
-    //      registration.unregister().then(function (boolean) {
-    //        console.log(
-    //          (boolean ? 'Successfully unregistered' : 'Failed to unregister'), 'ServiceWorkerRegistration\n' +
-    //          (registration.installing ? '  .installing.scriptURL = ' + registration.installing.scriptURL + '\n' : '') +
-    //          (registration.waiting ? '  .waiting.scriptURL = ' + registration.waiting.scriptURL + '\n' : '') +
-    //          (registration.active ? '  .active.scriptURL = ' + registration.active.scriptURL + '\n' : '') +
-    //          '  .scope: ' + registration.scope + '\n'
-    //        )
-    //    }) 
-    //        }
-    //  })
+    navigator.serviceWorker.getRegistrations().then(function (registrations) {
+        if (!registrations.length) {
+          console.log('No serviceWorker registrations found.')
+          return
+        }
+        for (let registration of registrations) {
+          registration.unregister().then(function (boolean) {
+            console.log(
+              (boolean ? 'Successfully unregistered' : 'Failed to unregister'), 'ServiceWorkerRegistration\n' +
+              (registration.installing ? '  .installing.scriptURL = ' + registration.installing.scriptURL + '\n' : '') +
+              (registration.waiting ? '  .waiting.scriptURL = ' + registration.waiting.scriptURL + '\n' : '') +
+              (registration.active ? '  .active.scriptURL = ' + registration.active.scriptURL + '\n' : '') +
+              '  .scope: ' + registration.scope + '\n'
+            )
+        }) 
+            }
+      })
   </script>
+  <script src="https://sparsham.pushify.com/script.js?category=5b2a86e94fedef4640e689bc"></script>
 </head>
 
 <body>
