@@ -16,26 +16,12 @@ layout: compress
   <style>
   .footer { padding-right: 15px; padding-left: 15px; } .footer .text-muted { margin: 20px 0; } .footer .text-muted button {margin-top: -7px; }
   #overlay { background: #ffffff; color: #666666; position: fixed; height: 100%; width: 100%; z-index: 5000; top: 0; left: 0; float: left; text-align: center; padding-top: 25%; }
+      .ui-dialog-titlebar-close {
+          display:none;
+      }
   </style>
-  <script type="text/javascript">
-    navigator.serviceWorker.getRegistrations().then(function (registrations) {
-        if (!registrations.length) {
-          console.log('No serviceWorker registrations found.')
-          return
-        }
-        for (let registration of registrations) {
-          registration.unregister().then(function (boolean) {
-            console.log(
-              (boolean ? 'Successfully unregistered' : 'Failed to unregister'), 'ServiceWorkerRegistration\n' +
-              (registration.installing ? '  .installing.scriptURL = ' + registration.installing.scriptURL + '\n' : '') +
-              (registration.waiting ? '  .waiting.scriptURL = ' + registration.waiting.scriptURL + '\n' : '') +
-              (registration.active ? '  .active.scriptURL = ' + registration.active.scriptURL + '\n' : '') +
-              '  .scope: ' + registration.scope + '\n'
-            )
-        }) 
-            }
-      })
-  </script>
+  
+  
   <script src="https://sparsham.pushify.com/script.js?category=5b2a86e94fedef4640e689bc"></script>
 </head>
 
@@ -81,6 +67,9 @@ layout: compress
   </nav>
 
   <div class="container">
+      <div id="dialog" title="">
+        <img src="../images/Stand-with-Kerala-Kerala-Needs-your-Help.jpg" />
+      </div>
     <div class="row">
       <div class="col-sm-8">
         {{ content }}
@@ -194,6 +183,20 @@ function googleTranslateElementInit() {
     });
     */
   </script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            if (!window.location.href.indexOf("page") > -1) {
+                $("#dialog").dialog({
+                    width: "90%",
+                    maxWidth: "768px",
+                    closeOnEscape: true
+                });
+            }
+             
+        });
+  </script> 
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
 </body>
