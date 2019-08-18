@@ -3,9 +3,29 @@
   <channel>
     <title>Sparsham</title>
     <description>Sparsham Charitable Society.</description>
-    <link>http://127.1.0.0:4000</link>
-    <atom:link href="http://127.1.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    
+      <item>
+        <title>Annual General Meeting 2019</title>
+        
+              <category><![CDATA[AGM]]></category>
+        
+              <category><![CDATA[2019]]></category>
+        
+              <category><![CDATA[2019]]></category>
+        
+        <description>&lt;p&gt;Sparsham AGM was conducted on June 6th at Kakkanad, Kochi. The meeting was presided by the Nithun Damodaran
+and the meeting concluded after forming a new Executive Committee (EC) for the upcoming year. 
+The meeting was kicked off by Sivashobh with his warm welcoming speech and gives the members about a brief description
+of Sparsham.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 01 Jun 2019 00:56:00 +0100</pubDate>
+        <link>http://localhost:4000/AGM2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/AGM2019/</guid>
+      </item>
     
       <item>
         <title>Relief Kits distribution at Kollengode Tribal Settlement</title>
@@ -21,9 +41,9 @@ from Thrissur- Pollachi route (2 hours from Thrissur). The culture is a mix of T
 The following is a summary of records from a report by Kerala government. The tribal settlement we visited contains people belongs to Eravallan category.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 07 Sep 2018 00:48:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/Relief-Kits-distribution-at-Kollengode-Tribal-Settlement/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/Relief-Kits-distribution-at-Kollengode-Tribal-Settlement/</guid>
+        <pubDate>Fri, 07 Sep 2018 00:48:00 +0100</pubDate>
+        <link>http://localhost:4000/Relief-Kits-distribution-at-Kollengode-Tribal-Settlement/</link>
+        <guid isPermaLink="true">http://localhost:4000/Relief-Kits-distribution-at-Kollengode-Tribal-Settlement/</guid>
       </item>
     
       <item>
@@ -39,9 +59,9 @@ The following is a summary of records from a report by Kerala government. The tr
 Most of the tribal people of Kerala live in the forests and mountains of Western Ghats, bordering Karnataka and Tamil Nadu.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 28 Aug 2018 23:41:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/Kollengode-Tribal-Settlement-Visit/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/Kollengode-Tribal-Settlement-Visit/</guid>
+        <pubDate>Tue, 28 Aug 2018 23:41:00 +0100</pubDate>
+        <link>http://localhost:4000/Kollengode-Tribal-Settlement-Visit/</link>
+        <guid isPermaLink="true">http://localhost:4000/Kollengode-Tribal-Settlement-Visit/</guid>
       </item>
     
       <item>
@@ -57,9 +77,9 @@ Most of the tribal people of Kerala live in the forests and mountains of Western
 The meeting will be started by morning ten to two. Please plan accordingly.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 17 Jun 2018 03:48:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/Onam-Celebrations/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/Onam-Celebrations/</guid>
+        <pubDate>Sun, 17 Jun 2018 03:48:00 +0100</pubDate>
+        <link>http://localhost:4000/Onam-Celebrations/</link>
+        <guid isPermaLink="true">http://localhost:4000/Onam-Celebrations/</guid>
       </item>
     
       <item>
@@ -75,9 +95,9 @@ The meeting will be started by morning ten to two. Please plan accordingly.&lt;/
 and our technical team is working on migration. The contents from the old site, will be migrated to the new environment with in a short span.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 04 Jun 2018 04:53:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/Sparsham-Website-Relaunced/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/Sparsham-Website-Relaunced/</guid>
+        <pubDate>Mon, 04 Jun 2018 04:53:00 +0100</pubDate>
+        <link>http://localhost:4000/Sparsham-Website-Relaunced/</link>
+        <guid isPermaLink="true">http://localhost:4000/Sparsham-Website-Relaunced/</guid>
       </item>
     
       <item>
@@ -95,9 +115,9 @@ and our technical team is working on migration. The contents from the old site, 
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Mon, 25 Sep 2017 03:48:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/TribalSettlement/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/TribalSettlement/</guid>
+        <pubDate>Mon, 25 Sep 2017 03:48:00 +0100</pubDate>
+        <link>http://localhost:4000/TribalSettlement/</link>
+        <guid isPermaLink="true">http://localhost:4000/TribalSettlement/</guid>
       </item>
     
       <item>
@@ -111,11 +131,11 @@ and our technical team is working on migration. The contents from the old site, 
         
               <category><![CDATA[2016]]></category>
         
-        <description>&lt;p&gt;&lt;img src=&quot;http://127.1.0.0:4000/images/2016/agm2016.jpg&quot; alt=&quot;Tribal Settlement&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2016/agm2016.jpg&quot; alt=&quot;Tribal Settlement&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 01 Jun 2016 03:48:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/AGM2016/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/AGM2016/</guid>
+        <pubDate>Wed, 01 Jun 2016 03:48:00 +0100</pubDate>
+        <link>http://localhost:4000/AGM2016/</link>
+        <guid isPermaLink="true">http://localhost:4000/AGM2016/</guid>
       </item>
     
       <item>
@@ -134,9 +154,9 @@ award the scholarship amount for the top candidates. The amount of scholarship w
 school is situated.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 25 Jan 2015 03:48:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/PrathibhaScholarships/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/PrathibhaScholarships/</guid>
+        <pubDate>Sun, 25 Jan 2015 03:48:00 +0000</pubDate>
+        <link>http://localhost:4000/PrathibhaScholarships/</link>
+        <guid isPermaLink="true">http://localhost:4000/PrathibhaScholarships/</guid>
       </item>
     
       <item>
@@ -146,12 +166,12 @@ school is situated.&lt;/p&gt;
         
               <category><![CDATA[Sparsham Day]]></category>
         
-        <description>&lt;p&gt;&lt;img src=&quot;http://127.1.0.0:4000/images/2014/Sparsham Day 2014.jpg&quot; alt=&quot;Sparsham Day 2014&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2014/Sparsham Day 2014.jpg&quot; alt=&quot;Sparsham Day 2014&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 15 Jan 2015 03:48:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/SparshamDay2015/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/SparshamDay2015/</guid>
+        <pubDate>Thu, 15 Jan 2015 03:48:00 +0000</pubDate>
+        <link>http://localhost:4000/SparshamDay2015/</link>
+        <guid isPermaLink="true">http://localhost:4000/SparshamDay2015/</guid>
       </item>
     
       <item>
@@ -161,12 +181,12 @@ school is situated.&lt;/p&gt;
         
               <category><![CDATA[Three years of Sparsham]]></category>
         
-        <description>&lt;p&gt;&lt;img src=&quot;http://127.1.0.0:4000/images/2014/3Years.jpg&quot; alt=&quot;3 years of Sparsham&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2014/3Years.jpg&quot; alt=&quot;3 years of Sparsham&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 08 Dec 2014 03:48:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/Three-years-of-Sparsham/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/Three-years-of-Sparsham/</guid>
+        <pubDate>Mon, 08 Dec 2014 03:48:00 +0000</pubDate>
+        <link>http://localhost:4000/Three-years-of-Sparsham/</link>
+        <guid isPermaLink="true">http://localhost:4000/Three-years-of-Sparsham/</guid>
       </item>
     
       <item>
@@ -179,9 +199,9 @@ school is situated.&lt;/p&gt;
         <description>&lt;p&gt;We are celebrating our anniversary at Shanthi Bhavan, Opp. KSRTC Stand, Ernakulam. Shanthi Bhavan is a shelter for girls and women. Many of them had faced many type tortures and then they have taken to this shelter by either elected people or police or the court. We are not allowed to take photos and to ask about the identity of the people there. Please be careful.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 15 Dec 2013 03:48:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/AnnualDay2013/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/AnnualDay2013/</guid>
+        <pubDate>Sun, 15 Dec 2013 03:48:00 +0000</pubDate>
+        <link>http://localhost:4000/AnnualDay2013/</link>
+        <guid isPermaLink="true">http://localhost:4000/AnnualDay2013/</guid>
       </item>
     
       <item>
@@ -197,9 +217,9 @@ and the bussiness involved in it. A lot of people were assembled at the hall and
 who willing to donate.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 08 Oct 2013 03:48:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/RecycleYourself/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/RecycleYourself/</guid>
+        <pubDate>Tue, 08 Oct 2013 03:48:00 +0100</pubDate>
+        <link>http://localhost:4000/RecycleYourself/</link>
+        <guid isPermaLink="true">http://localhost:4000/RecycleYourself/</guid>
       </item>
     
       <item>
@@ -215,9 +235,9 @@ MLA shows a great interest in Sparsham activities and offers all the help and wi
 had a tight schedule on that particular day and after the inaguration programme, he rushed to the next meeting place.&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 15 Dec 2012 03:48:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/Sparsham-Day-2012/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/Sparsham-Day-2012/</guid>
+        <pubDate>Sat, 15 Dec 2012 03:48:00 +0000</pubDate>
+        <link>http://localhost:4000/Sparsham-Day-2012/</link>
+        <guid isPermaLink="true">http://localhost:4000/Sparsham-Day-2012/</guid>
       </item>
     
       <item>
@@ -234,9 +254,9 @@ was organized in association with Indian Red Cross Society and Blood Bank, Distr
 Prof. M K Sanoo.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 15 Oct 2012 03:48:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/BloodDonationDrive/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/BloodDonationDrive/</guid>
+        <pubDate>Mon, 15 Oct 2012 03:48:00 +0100</pubDate>
+        <link>http://localhost:4000/BloodDonationDrive/</link>
+        <guid isPermaLink="true">http://localhost:4000/BloodDonationDrive/</guid>
       </item>
     
       <item>
@@ -255,9 +275,9 @@ challenges and stay stronger. It was a nice experience to us and great time for 
 left the campus afternoon.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 15 Aug 2012 03:48:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/IndependenceDay-AluvaBlindschool/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/IndependenceDay-AluvaBlindschool/</guid>
+        <pubDate>Wed, 15 Aug 2012 03:48:00 +0100</pubDate>
+        <link>http://localhost:4000/IndependenceDay-AluvaBlindschool/</link>
+        <guid isPermaLink="true">http://localhost:4000/IndependenceDay-AluvaBlindschool/</guid>
       </item>
     
       <item>
@@ -273,9 +293,9 @@ We expect a good deal of support and dedication from our members in the coming y
 We heartily thank all the members who took part in the AGM.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 04 Jun 2012 20:48:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/AGM-2012/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/AGM-2012/</guid>
+        <pubDate>Mon, 04 Jun 2012 20:48:00 +0100</pubDate>
+        <link>http://localhost:4000/AGM-2012/</link>
+        <guid isPermaLink="true">http://localhost:4000/AGM-2012/</guid>
       </item>
     
       <item>
@@ -291,9 +311,9 @@ for a better world, a better life situation for the new generations.
 We had long discussions about the various activites and invested time in research.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 01 Feb 2012 22:59:00 +0530</pubDate>
-        <link>http://127.1.0.0:4000/Sparsham-Launched/</link>
-        <guid isPermaLink="true">http://127.1.0.0:4000/Sparsham-Launched/</guid>
+        <pubDate>Wed, 01 Feb 2012 22:59:00 +0000</pubDate>
+        <link>http://localhost:4000/Sparsham-Launched/</link>
+        <guid isPermaLink="true">http://localhost:4000/Sparsham-Launched/</guid>
       </item>
     
   </channel>
