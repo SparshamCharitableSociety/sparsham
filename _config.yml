@@ -1,10 +1,10 @@
 # Site settings
-host : sparsham.org
+host : "127.0.0.1:8998"
 name : Sparsham
 description: Sparsham Charitable Society.
 author : "SparshamOrg"
-url : "https://sparsham.org"
-fqurl : "https://sparsham.org/"
+url : "http://127.0.0.1:8998"
+fqurl : "http://127.0.0.1:8998/"
 baseurl : "/"
 author_name : "Sparsham"
 author_bio : "Sparsham is a NGO based on Kerala." 
@@ -21,7 +21,7 @@ permalink: /:title/
 paginate: 3
 showFeed : true
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
