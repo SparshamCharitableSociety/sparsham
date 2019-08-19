@@ -1,10 +1,10 @@
 # Site settings
-host : "127.0.0.1:8998"
+host : "www.sparsham.org"
 name : Sparsham
 description: Sparsham Charitable Society.
 author : "SparshamOrg"
-url : "http://127.0.0.1:8998"
-fqurl : "http://127.0.0.1:8998/"
+url : "http://www.sparsham.org"
+fqurl : "http://www.sparsham.org/"
 baseurl : "/"
 author_name : "Sparsham"
 author_bio : "Sparsham is a NGO based on Kerala." 
