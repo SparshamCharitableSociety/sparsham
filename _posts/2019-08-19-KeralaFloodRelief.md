@@ -5,7 +5,7 @@ subtitle: "സ്‌നേഹ  സ്‌പർശം"
 date: 2019-06-01 00:56
 author: "Sparsham"
 comments: true
-categories: [AGM, 2019]
+categories: [Kerala floods, 2019]
 tags: [Kerala floods, 2019, Education Support]
 header-img: ""
 ---
