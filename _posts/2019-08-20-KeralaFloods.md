@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "പ്രളയബാധിതർക്ക് സ്നേഹ സ്പർശം"
+title: "സ്‌നേഹ  സ്‌പർശം പദ്ധതി"
 subtitle: "Kerala flood relief"
 date: 2019-08-01 00:56
 author: "Sparsham"
