@@ -1,3 +1,3 @@
 # sparsham.github.io
 
-Repo for http://sparsham.org
+Repo for https://sparsham.org
