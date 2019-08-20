@@ -44,7 +44,9 @@ header-img: ""
 
 **Account Details**
 Account no: 33908620453
+
 IFSC: SBIN0031449
+
 Account name: Sparsham Charitable Society
 
 ഇതിലേക്കായി എല്ലാവരുടെയും സഹകരണം പ്രതീക്ഷിക്കുന്നു. 
