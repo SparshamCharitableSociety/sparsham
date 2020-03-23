@@ -6,6 +6,7 @@ author : "SparshamOrg"
 url : "https://www.sparsham.org"
 fqurl : "https://www.sparsham.org/"
 baseurl : "/"
+collections_dir: _collections
 author_name : "Sparsham"
 author_bio : "Sparsham is a NGO based on Kerala." 
 twitter_username: sparshamorg
@@ -18,7 +19,7 @@ kramdown:
   syntax_highlighter: rouge
 highlighter: rouge
 permalink: /:title/
-paginate: 3
+# paginate: 3
 showFeed : true
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 plugins:
@@ -43,3 +44,12 @@ social:
 google_site_verification: g12yfu4dXlcHcAPxbSApkXdqkPZwuxOeqj8q7pANb4E
 
 theme: jekyll-theme-minimal
+collections:
+  blog:
+    output: true
+  campaign:
+    output: true
+  event:
+    output: true 
+  articles:
+    output: true

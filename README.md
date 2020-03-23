@@ -1,3 +1,2 @@
-# sparsham.github.io
-
-Repo for https://sparsham.org
+# sparsham-stage.github.io
+Staging site for Sparsham.org
