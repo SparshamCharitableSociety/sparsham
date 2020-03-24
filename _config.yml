@@ -1,49 +1,25 @@
-# Site settings
+
+title: Sparsham Charitable Society
+email: info@sparsham.org
+description: >
+  We are a Society Registered under the Travancore – Cochin Literary, Scientific and Charitable Societies Act, 1955. Act XII of 1955.
+  To encourage the students from econmically challenging situations by sponsoring them or arranging facilities like food,study materials, 
+  dress and transportation to continue and complete their education, from lower primary to higher secondary.We believe education brings awarness and enlightment to the new generation results into a freedom with responsibilities. 
+  Lets extend your hands and join us for developing a new educated and responsible young minds around us.
 host : "www.sparsham.org"
-name : Sparsham
-description: Sparsham Charitable Society.
-author : "SparshamOrg"
-url : "https://www.sparsham.org"
-fqurl : "https://www.sparsham.org/"
-baseurl : "/"
-collections_dir: _collections
-author_name : "Sparsham"
-author_bio : "Sparsham is a NGO based on Kerala." 
+port: "8080"
+baseurl: "" 
+url: "https://www.sparsham.org" 
 twitter_username: sparshamorg
 facebook_username: SparshamCharitableSociety
-# Build settings
-encoding: UTF-8
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-highlighter: rouge
-permalink: /:title/
-# paginate: 3
-showFeed : true
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-paginate
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-# SEO settings
-title: sparsham
-twitter:
-  username: SparshamCharitableSociety
-facebook:
-  app_id: 222755514444735
-  publisher: https://www.facebook.com/SparshamCharitableSociety
-  admins: https://www.facebook.com/kbvishnu
-social:
-  name : Sparsham
-  links: ["http://www.twitter.com/SparshamOrg","https://www.facebook.com/SparshamCharitableSociety","https://plus.google.com/SparshamCharitableSociety","https://in.linkedin.com/in/SparshamCharitableSociety","https://www.youtube.com/channel/UC98FbpEB4PvgOYq1GKCtOgQ"]
-google_site_verification: g12yfu4dXlcHcAPxbSApkXdqkPZwuxOeqj8q7pANb4E
+collections_dir: _collections
+include: ["_pages"]
 
-theme: jekyll-theme-minimal
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 collections:
   blog:
     output: true
@@ -53,3 +29,6 @@ collections:
     output: true 
   articles:
     output: true
+
+
+
