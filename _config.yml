@@ -7,7 +7,6 @@ description: >
   dress and transportation to continue and complete their education, from lower primary to higher secondary.We believe education brings awarness and enlightment to the new generation results into a freedom with responsibilities. 
   Lets extend your hands and join us for developing a new educated and responsible young minds around us.
 host : "www.sparsham.org"
-port: "8080"
 baseurl: "" 
 url: "https://www.sparsham.org" 
 twitter_username: sparshamorg
