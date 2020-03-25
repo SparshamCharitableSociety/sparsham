@@ -47,6 +47,7 @@ layout: compress
 								<li class="nav-item"><a class="nav-link" href="#about_us">About</a></li> 																
 								<li class="nav-item"><a class="nav-link" href="#blog">Blog</a>
 								<li class="nav-item"><a class="nav-link" href="#events">Events</a>
+								<li class="nav-item"><a class="nav-link" href="#team">Our Team</a>
 								<li class="nav-item"><a class="nav-link" href="#contact">Contact</a>
 								<li class="nav-item"><a class="nav-link" href="#contribute">Contribute</a></li>
 							</ul>
@@ -82,9 +83,9 @@ layout: compress
 	<!--================ End Home Banner Area =================-->
 	
 	<!--================ Start Causes Area =================-->
-	<section class="causes_area">
+	<section class="causes_area" id="focus">
 		<div class="container" >
-			<div class="main_title" id="focus">
+			<div class="main_title" >
 				<h2>Our Major Focus</h2>
 				<p>We encourage the students from econmically challenging situations by sponsoring them or arranging facilities like food,study materials, 
 dress and transportation to continue and complete their education, from lower primary to higher secondary.</p>
@@ -125,8 +126,8 @@ dress and transportation to continue and complete their education, from lower pr
 	<!--================ End Causes Area =================-->
 
 	<!--================ Start About Us Area =================-->
-	<section class="about_area section_gap_bottom" >
-		<div class="container" id="about_us">
+	<section class="about_area section_gap_bottom" id="about_us" >
+		<div class="container" >
 			<div class="row">	
 				<div class="single_about row">
 					<div class="col-lg-6 col-md-12 text-center about_left">
@@ -157,8 +158,8 @@ dress and transportation to continue and complete their education, from lower pr
 	<!--================ End About Us Area =================-->
 
 	<!--================ Start Features Cause section =================-->
-	<section class="features_causes">
-		<div class="container" id="features_causes">
+	<section class="features_causes"  id="features_causes">
+		<div class="container">
 			<div class="main_title">
 				<h2>Why Education is so important ?</h2>
 				<p>
@@ -254,13 +255,11 @@ dress and transportation to continue and complete their education, from lower pr
 	<!--================ End Features Cause section =================-->
 
 	<!--================ Start Recent Event Area =================-->
-	<section class="event_area section_gap_custom" >
-		<div class="container" id="events">
+	<section class="event_area section_gap overlay" id="events" >
+		<div class="container" >
 			<div class="main_title">
-				<h2>Events</h2>
-				
-			</div>
-		
+				<h2>Events</h2>				
+			</div>		
 			<div class="row">
 					{% assign events = site.event | reverse | slice: 0, 4 %}
 					{% for item in events %}
@@ -305,234 +304,12 @@ dress and transportation to continue and complete their education, from lower pr
 	<!--================ End Recent Event Area =================-->
 
 	<!--================Team Area =================-->
-	<section class="team_area section_gap">
-		<div class="container" id="team">
-			<div class="main_title">
-				<h2>Meet our team</h2>
-				<p>Creepeth called face upon face yielding midst is after moveth </p>
-			</div>
-			<div class="row team_inner">
-				<div class="col-lg-3 col-md-6">
-					<div class="team_item">
-						<div class="team_img" style='display:none;'>
-							<img class="img-fluid" src="img/voluteer/v1.jpg" alt="">
-						</div>
-						<div class="team_name">
-							<h4>Vishnu</h4>
-							<p>President</p>
-							<p class="mt-20">								
-							</p>
-							<div class="social">
-								<a href="www.facebook.com/kbvishnu"><i class="fa fa-facebook"></i></a>
-								<a style="display:none" href="" class="active"><i class="fa fa-twitter"></i></a>
-								<a style="display:none" href="#"><i class="fa fa-instagram"></i></a>
-								<a href="mailto:vishnu.balachandra@gmail.com"><i class="fa fa-envelope-o"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6">
-					<div class="team_item">
-						<div class="team_img" style='display:none;'>
-							<img class="img-fluid" src="img/voluteer/v2.jpg" alt="">
-						</div>
-						<div class="team_name">
-							<h4>Prajeesh</h4>
-							<p>Vice President</p>
-							<p class="mt-20">
-								
-							</p>
-							<div class="social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a style="display:none" href="" class="active"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa-envelope-o"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6">
-					<div class="team_item">
-						<div class="team_img" style='display:none;'>
-							<img class="img-fluid" src="img/voluteer/v3.jpg" alt="">
-						</div>
-						<div class="team_name">
-							<h4>Sayuj</h4>
-							<p>Secretary</p>
-							<p class="mt-20">
-								
-							</p>
-							<div class="social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a style="display:none" href="" class="active"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa-envelope-o"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6">
-					<div class="team_item">
-						<div class="team_img" style='display:none;'>
-							<img class="img-fluid" src="img/voluteer/v4.jpg" alt="">
-						</div>
-						<div class="team_name">
-							<h4>Aneesh</h4>
-							<p>Joint Secretary</p>
-							<p class="mt-20">
-								
-							</p>
-							<div class="social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a style="display:none" href="" class="active"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa-envelope-o"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row team_inner">
-				<div class="col-lg-3 col-md-6">
-					<div class="team_item">
-						<div class="team_img" style='display:none;'>
-							<img class="img-fluid" src="img/voluteer/v1.jpg" alt="">
-						</div>
-						<div class="team_name">
-							<h4>Jassem</h4>
-							<p>Treasurer</p>
-							<p class="mt-20">
-								
-							</p>
-							<div class="social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a style="display:none" href="" class="active"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa-envelope-o"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6">
-					<div class="team_item">
-						<div class="team_img" style='display:none;'>
-							<img class="img-fluid" src="img/voluteer/v2.jpg" alt="">
-						</div>
-						<div class="team_name">
-							<h4>Shivilraj</h4>
-							<p>Executive Committee Member</p>
-							<p class="mt-20">
-								
-							</p>
-							<div class="social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a style="display:none" href="" class="active"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa-envelope-o"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6">
-					<div class="team_item">
-						<div class="team_img" style='display:none;'>
-							<img class="img-fluid" src="img/voluteer/v3.jpg" alt="">
-						</div>
-						<div class="team_name">
-							<h4>Vyasdev</h4>
-							<p>Executive Committee Member</p>
-							<p class="mt-20">
-								
-							</p>
-							<div class="social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a style="display:none" href="" class="active"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa-envelope-o"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6">
-					<div class="team_item">
-						<div class="team_img" style='display:none;'>
-							<img class="img-fluid" src="img/voluteer/v4.jpg" alt="">
-						</div>
-						<div class="team_name">
-							<h4>Nithun</h4>
-							<p>Executive Committee Member</p>
-							<p class="mt-20">
-								
-							</p>
-							<div class="social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a style="display:none" href="" class="active"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa-envelope-o"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row team_inner">
-				<div class="col-lg-3 col-md-6">
-					<div class="team_item">
-						<div class="team_img" style='display:none;'>
-							<img class="img-fluid" src="img/voluteer/v1.jpg" alt="">
-						</div>
-						<div class="team_name">
-							<h4>Sivashobh</h4>
-							<p>Executive Committee Member</p>
-							<p class="mt-20">
-								
-							</p>
-							<div class="social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a style="display:none" href="" class="active"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa-envelope-o"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6">
-					<div class="team_item">
-						<div class="team_img" style='display:none;'>
-							<img class="img-fluid" src="img/voluteer/v2.jpg" alt="">
-						</div>
-						<div class="team_name">
-							<h4>Shamith</h4>
-							<p>Permanent Invitee</p>
-							<p class="mt-20">
-								
-							</p>
-							<div class="social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a style="display:none" href="" class="active"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa-envelope-o"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>			 
-				</div>				 
-					
-				
-			
-		</div>
-	</section>
+	{% include sections/EC.html %}
 	<!--================End Team Area =================-->
 
 	<!--================ Start CTA Area =================-->
-	<div class="cta-area section_gap overlay">
-		<div class="container" id="contribute">
+	<div class="cta-area section_gap overlay" id="contribute">
+		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-7">
 					<h1>Become a member</h1>
@@ -581,8 +358,8 @@ dress and transportation to continue and complete their education, from lower pr
 	<!--================ End CTA Area =================-->
 
 	<!--================ Start Story Area =================-->
-	<section class="section_gap story_area">
-		<div class="container" id="blog">
+	<section class="section_gap story_area" id="blog">  
+		<div class="container" >
 			<div class="row justify-content-center">
 				<div class="col-lg-7">
 					<div class="main_title">
@@ -631,29 +408,6 @@ dress and transportation to continue and complete their education, from lower pr
 		</div>
 	</section>
 	<!--================ End Story Area =================-->
-
-	<!--================ Start Subscribe Area =================-->
-	<div class="container" style="display:none">
-		<div class="subscribe_area">
-			<div class="row">
-				<div class="col-lg-12">
-					<div class="d-flex align-items-center">
-						<h1 class="text-white">Do you have a question?</h1>
-						<div id="mc_embed_signup">
-							<form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative">
-								<div class="input-group d-flex flex-row">
-									<input name="EMAIL" placeholder="Your email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address '" required="" type="email">
-									<button class="ml-10 primary_btn yellow_btn btn sub-btn rounded">SUBSCRIBE</button>		
-								</div>									
-								<div class="info"></div>
-							</form>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!--================ End Subscribe Area =================-->
         
 	<!--================ Start footer Area  =================-->	
 	<footer>
@@ -743,6 +497,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	<script src="vendors/lightbox/simpleLightbox.min.js"></script>
 	<script src="vendors/nice-select/js/jquery.nice-select.min.js"></script>
 	<script src="js/jquery.ajaxchimp.min.js"></script>
+	<script src="js/theme.js"></script>
 	 
 	 
 </body>

@@ -1,0 +1,40 @@
+<section class="team_area section_gap">
+  <div class="container" id="team">
+    <div class="main_title">
+      <h2>Meet our team</h2>
+      <p> Executive Committee</p>
+    </div>
+    <div class="row team_inner">
+      {% for member in site.data.EC %}
+        <div class="col-lg-3 col-md-6">
+          <div class="team_item">
+            {% if member.image== '' or member.image == nil %}
+            {%  assign showImage =false %}
+            {% else %}
+            {%  assign showImage =true %}
+            {% endif %}
+
+            {% if showImage %}
+              <div class="team_img" style='display:none;'>
+                <img class="img-fluid" src="img/EC/{{ member.image }}" alt="">
+              </div>
+            {% endif %}
+            
+            <div class="team_name">
+              <h4>{{ member.name }}</h4>
+              <p>{{ member.role }}</p>
+              <p class="mt-20">								
+              </p>
+              <div class="social">
+                <a href="mailto:{{ member.email }}" title="Email Address : {{ member.email }}"><i class="fa fa-envelope-o"></i></a>
+                <a href="tel:{{ member.mobile }}" title="Mobile Number : {{ member.mobile }}"><i class="fa fa-mobile"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>        
+      {% endfor %}         
+  </div>
+</section>
+
+
+

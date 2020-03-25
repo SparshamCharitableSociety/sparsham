@@ -1,0 +1,112 @@
+[
+  {
+    "order": 1,
+    "name": "Vishnu",
+    "role": "President",
+    "mobile": "+917012278418",
+    "email": "vishnu.balachandra@gmail.com",
+    "facebook": "kbvishnu",
+    "twitter": "",
+    "instagram": "",
+    "image": ""
+  },
+  {
+    "order": 2,
+    "name": "Prajeesh",
+    "role": "Vice President",
+    "mobile": "+918050174715",
+    "email": "prajeesh.h@gmail.com",
+    "facebook": "prajeesh.haidas715",
+    "twitter": "",
+    "instagram": "",
+    "image": ""
+  },
+  {
+    "order": 3,
+    "name": "Sayuj",
+    "role": "Secretary",
+    "mobile": "+919037107542",
+    "email": "sayuj@othayoth.in",
+    "facebook": "sayujothayoth",
+    "twitter": "",
+    "instagram": "",
+    "image": ""
+  },
+  {
+    "order": 4,
+    "name": "Aneesh",
+    "role": "Joint Secretary",
+    "mobile": "+919739876683",
+    "email": "aneesh.303@gmail.com",
+    "facebook": "aneeshkamalone",
+    "twitter": "",
+    "instagram": "",
+    "image": ""
+  },
+  {
+    "order": 5,
+    "name": "Jassem",
+    "role": "Treasurer",
+    "mobile": "+919995489827",
+    "email": "jaseemannara@gmail.com",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "image": ""
+  },
+  {
+    "order": 6,
+    "name": "Shivilraj",
+    "role": "Member",
+    "mobile": "+919961934468",
+    "email": "shivil.raj@gmail.com",
+    "facebook": "shivilraj",
+    "twitter": "",
+    "instagram": "",
+    "image": ""
+  },
+  {
+    "order": 7,
+    "name": "Vyasdev",
+    "role": "Member",
+    "mobile": "+919946065575",
+    "email": "vyasdice@gmail.com",
+    "facebook": "Vyasdev",
+    "twitter": "",
+    "instagram": "",
+    "image": ""
+  },
+  {
+    "order": 8,
+    "name": "Nithun",
+    "role": "Member",
+    "mobile": "+919036044654",
+    "email": "naran006@gmail.com ",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "image": ""
+  },
+  {
+    "order": 9,
+    "name": "Sivasobh",
+    "role": "Member",
+    "mobile": "=919895658506",
+    "email": "sivasobh.p@gmail.com",
+    "facebook": "sivasobh",
+    "twitter": "",
+    "instagram": "",
+    "image": ""
+  },
+  {
+    "order": 10,
+    "name": "Shamith",
+    "role": "Member",
+    "mobile": "+919400944254",
+    "email": "shamithc@gmail.com ",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "image": ""
+  }
+]
