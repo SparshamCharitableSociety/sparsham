@@ -66,8 +66,10 @@ layout: compress
 					<p class="upper_text">Be the spark</p>
 					<h2>to ignite the future of the world</h2>
 					<p>
+						<b>
 						We believe education brings awarness and enlightment to the new generation results into a freedom with responsibilities. 
 						Extend your hands and join us for developing a new educated and responsible young minds around us.
+						</b>
 					</p>
 					<a class="primary_btn mr-20" href="#Contribute">Contribute Now</a>
 					<a class="primary_btn yellow_btn text-white" href="#features_causes">How Sparsham works !</a>
@@ -254,9 +256,7 @@ dress and transportation to continue and complete their education, from lower pr
 		<div class="container" id="events">
 			<div class="main_title">
 				<h2>Events</h2>
-				<p>	
-					<a href="/events">View All</a>					   
-				</p>
+				
 			</div>
 		
 			<div class="row">
@@ -293,6 +293,11 @@ dress and transportation to continue and complete their education, from lower pr
 					</div>
 					{% endfor %}
 			</div>
+			<div class="row">
+				<div class="col-lg-12 col-md-12 text-center">
+					<a href="/events" class="primary_btn">All events</a>
+				</div> 
+			</div>	
 		</div>
 	</section>
 	<!--================ End Recent Event Area =================-->
@@ -534,7 +539,7 @@ dress and transportation to continue and complete their education, from lower pr
 						Also we have an active whatsapp group for EC and for all members.
 						There are three steps.
 						<br />
-						1. Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSelgYBKXKG5WQ0ZM0a1pwH-yqGaqkwhuZ0DVpy1Krwko-3YUw/viewform">here</a> to fill and submit the Memebership application form.
+						1. Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSelgYBKXKG5WQ0ZM0a1pwH-yqGaqkwhuZ0DVpy1Krwko-3YUw/viewform" target="_blank">here</a> to fill and submit the Memebership application form.
 						<br />
 						2. A Sparsham Memeber will reach to you and introduce the sparsham and its mode of operation and recommends to EC.
 						<br />
@@ -587,9 +592,9 @@ dress and transportation to continue and complete their education, from lower pr
 				</div>
 			</div>
 			<div class="row">			 
-				{% assign events = site.blog | reverse | slice: 0, 3 %}
+				{% assign events = site.blog | reverse | slice: 0, 4 %}
 				{% for item in events %}
-				<div class="col-lg-4 col-md-6">
+				<div class="col-lg-4 col-md-4">
 					<div class="single-story">
 						<div class="story-thumb">
 							
@@ -617,7 +622,12 @@ dress and transportation to continue and complete their education, from lower pr
 					</div>
 				</div>
 				{% endfor %}
-		</div>			 
+			</div>		
+			<div class="row">
+				<div class="col-lg-12 col-md-12 text-center">
+					<a href="/blogs" class="primary_btn">All blogs</a>
+				</div> 
+			</div>	 
 		</div>
 	</section>
 	<!--================ End Story Area =================-->
@@ -677,7 +687,7 @@ dress and transportation to continue and complete their education, from lower pr
 						</div>
 					</div>
 					<div class="offset-lg-1 col-lg-3 col-md-6 col-sm-6">
-						<div class="single-footer-widget tp_widgets">
+						<div class="single-footer-widget tp_widgets" id="contact">
 							<h4 class="footer_title">Contact Us</h4>
 							<div class="ml-40">
 								<p class="sm-head">
