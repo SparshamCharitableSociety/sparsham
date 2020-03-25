@@ -585,14 +585,12 @@ dress and transportation to continue and complete their education, from lower pr
 				<div class="col-lg-7">
 					<div class="main_title">
 						<h2>Blog</h2>
-						<p>	
-							<a href="/blogs">View All</a>					   
-						</p>
+						
 					</div>
 				</div>
 			</div>
 			<div class="row">			 
-				{% assign events = site.blog | reverse | slice: 0, 4 %}
+				{% assign events = site.blog | reverse | slice: 0, 6 %}
 				{% for item in events %}
 				<div class="col-lg-4 col-md-4">
 					<div class="single-story">
