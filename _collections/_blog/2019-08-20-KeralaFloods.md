@@ -9,6 +9,7 @@ categories: [Kerala floods 2019, സ്നേഹ സ്പർശം,2019]
 tags: [Kerald floods, Flood relief activity]
 header-img: ""
 image: "images/2019/IMG_20180603_121617.jpg"
+videoURL: "https://www.youtube.com/embed/sWzOhtq8_RE?autoplay=1"
 ---
 
 **പ്രളയബാധിതർക്ക് സ്നേഹ സ്പർശം**
