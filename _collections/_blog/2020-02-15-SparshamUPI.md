@@ -16,7 +16,7 @@ Sparsham encourages only digital transactions from its begining. Almost all our 
 Now our banking partner provides the UPI handler. Unified Payments Interface ([UPI]) is an instant real-time payment system developed by National Payments Corporation of India facilitating inter-bank transactions. The interface is regulated by the Reserve Bank of India and works by instantly transferring funds between two bank accounts on a mobile platform. 
 
 The creation of a UPI handler was one of main action item and Sayuj was working with bank for the official formalities prior to submit the request. 
-**Sparsham@SBI** is the UPI handler associated with our account. Members and donars are requested to ensure the UPI handler before initiating a transaction. In India, there are lot of phishing activities identified by creating UPI handlers with slight changes in the text. So make sure you are enaging a transaction with the right handler.
+**Sparsham@SBI** is the UPI handler associated with our account. Members and donars are requested to ensure the UPI handler before initiating a transaction. In India, there are lot of phishing activities identified by creating UPI handlers with slight changes in the text. So make sure you are enaging a transaction with the right handler. Currently there is no payment fees for the transaction.
 
 #### UPI ID ####
  **SPARSHAM@SBI**
