@@ -45,7 +45,7 @@ the only education will help to transform a child to a better human being.
 
 Its a unanimous decision to support education and we finally decided to make this official, by registering it with the government and having
 its own bylaws and regulations. Sayuj and Akhil were responsible for these activites and submitted a request to initate the process to the 
-Ernakulam register office.
+Ernakulam register office. 
 
 We soon got the registration approved and here is our registration certificate.
 ![Registration Certificate]({{ site.url }}/images/2012/sparshamregistercertificate.jpg)
