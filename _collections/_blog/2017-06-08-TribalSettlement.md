@@ -11,9 +11,9 @@ header-img: ""
 image: "images/2017/TribalVisit.JPG"
 ---
 
-We celebrated Onam17 along with residents of Kadappara Tribal Settlement. Our celebration starts with the traditional flower carpet called pookkalam. We saw all of them unanimously joined us to organize our small pookkalam. We had some time interacting with the residents and had a great traditional lunch called Ona Sadya. This is our second visit to Kadappara and we noticed that they requires attention and more helping hands. As conclusion of our day, we gifted Ona kodi , and before we wrap up they made us to offer them promises to visit again with more people. We thank all our members and sponsors to support us. We wish a prosperous and peaceful Onam to all.
-- EC,Sparsham 
+With people of Kadappara Tribal Settlement, we celebrated Onam 2017. Our celebration began with the pookkalam, a traditional floral carpet. We noticed that they had all agreed to help us organise our modest pookkalam. We spent some time conversing with the locals and ate a delicious traditional meal called Ona Sadya. This is our second trip to Kadappara, and we've realised that they need more attention and assistance. We gave Ona kodi at the end of the day, and before we left, they had us pledge to come back with more people. We appreciate the support of all our members and sponsors. We wish everyone a happy and peaceful Onam.
 
+**Sparsham EC, thank you very much.**
 ![Onam Celebrations]({{ site.url }}/images/2017/OnamTribalVisit.jpg)
 
 ![Tribal Settlement]({{ site.url }}/images/2017/TribalSettlement.jpg)
