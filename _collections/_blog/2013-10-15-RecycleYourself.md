@@ -11,15 +11,11 @@ header-img: ""
 image : "images/2013/OrganDonationDrive.JPG"
 ---
 
-Sparsham conducted an awarness session and organ donation drive on 6th October 2013 at C Achyuthamenon Hall, near Ernakulam Public Library, Ernakulam.
-We organized with association of Kerala Action Force,an organ donation awarness society and they had delivered an unexceptional speech on organ donation - its possibilities, challenges
-and the bussiness involved in it. A lot of people were assembled at the hall and lot of questions were discussed. Sparsham gives an organ donor card to those
-who willing to donate.
+On the 6th of October 2013, Sparsham held an awareness workshop and organ donation drive at C Achyuthamenon Hall, near Ernakulam Public Library, Ernakulam. We collaborated with Kerala Action Force, an organ donation awareness organisation, and they gave a usual speech about organ donation, its benefits, problems, and the business involved. Many people were gathered in the hall, and several questions were discussed. Sparsham gives an organ donor card to those who willing to donate.
 
 > Live your life, then pass it on !
 
-A high tea was arranged and after the function, we had the Annual General Body Meeting (AGM) and discussed on further activities and elected the steering committee
-for the next year.
+After the high tea, we attended the Annual General Body Meeting (AGM), where we discussed future activities and chose the steering committee for the coming year.
 
 ![Organ Donation Drive]({{ site.url }}/images/2013/OrganDonationDrive.jpg)
 
