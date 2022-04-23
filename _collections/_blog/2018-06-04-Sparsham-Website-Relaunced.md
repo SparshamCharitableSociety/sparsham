@@ -10,9 +10,7 @@ tags: [Sparsham, Website, Facelift 2018]
 header-img: ""
 image: "images/2018/launch.png"
 ---
-We are very excited to inform you about the relaunched Sparsham website. There were some technical issue with the previous hosting environment
-and our technical team is working on migration. The contents from the old site, will be migrated to the new environment with in a short span.
+The Sparsham website has been relaunched, and we are extremely delighted to share the news with you. The prior hosting environment had certain technical issues, and our technical team is trying to resolve them. The previous site's content will be quickly moved to the new environment.
 
-Thanks,
-Sparsham EC.
+*Sparsham EC, thank you very much.*
 
