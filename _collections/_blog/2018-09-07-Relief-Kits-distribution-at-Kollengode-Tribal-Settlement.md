@@ -12,9 +12,7 @@ image: "images/2018/9/KollengodeDistributionKit/Purchase.jpeg"
 ---
 
 
-   Kollengode is one of the major town in Palakkad district of Kerala state. The nearest railway station is Palakkad (19 KM) and busses are available 
-from Thrissur- Pollachi route (2 hours from Thrissur). The culture is a mix of Tamil and Malayalam as you can see people speaking both Tamil and Malayalam. 
-The following is a summary of records from a report by Kerala government. The tribal settlement we visited contains people belongs to Eravallan category.
+   Kollengode is one of the major towns in Kerala's Palakkad district. Palakkad, the nearest railway station, is 19 kilometres away, and buses run along the Thrissur-Pollachi route. The culture here is a combination of Tamil and Malayalam, as seen by the fact that people speak both languages. The following is a summary of data from a Kerala government report. People from the Eravallan community lived in the tribal settlement we visited.
 
 ![Tribal Settlement Details]({{ site.url }}/images/2018/9/KollengodeDistributionKit/Data.jpg) 
 
@@ -24,10 +22,7 @@ The following is a summary of records from a report by Kerala government. The tr
 
 ![CommunityHall]({{ site.url }}/images/2018/9/KollengodeDistributionKit/CommunityHall.jpg) 
 
-
-   Eravallans are inhabitants of the Palghat District.  seen settled  in the low lying lands adjoining the high mountains They speak a poor dialect of Tamil in Malayalam. 
-They are either agriculturists or farm laborers. A few own land which they cultivate successfully. They were animists and tote mists of the highest order. 
-They celebrate Onam, Vishu, Mattu Pongal festivals. According to the 2011 census, their population can be estimated to be 4,797.
+The Eravallans are inhabitants of the Palghat District, settled in the low-lying lands adjoining the high mountains. In Malayalam, they speak a rudimentary dialect of Tamil. They are either agriculturists or farm laborers. A few own land that they cultivate successfully. They were animists and totemists of the highest order. They celebrate Onam, Vishu, and Mattu Pongal festivals. According to the 2011 census, their population was estimated to be 4,797.
 
 
 **Minutes of the meeting**
@@ -37,43 +32,32 @@ They celebrate Onam, Vishu, Mattu Pongal festivals. According to the 2011 census
 
 
 
-   The interactive session was started after the lunch. People were gathered and we had a formal meeting with the representatives from their welfare organizations. The meeting 
-was presided by one of the leader from their welfare organizations and RJ Manu was honored as the chief guest of the meeting.The native speakers including Madhavettan, helped us to understand their current 
-troubles and challenges faced by the people residing over there. Also they informed their bad experiences with some other NGO which offered charity activities. 
+  After lunch, the interactive session began. We conducted a formal meeting with representatives from their welfare organisations once the crowd had arrived. The conference was presided over by one of their welfare organization's leaders, and RJ Manu was honoured as the meeting's principal guest. The native speakers, particularly Madhavettan, assisted us in comprehending their current difficulties and the problems that the people who live there face. They also shared their negative experiences with other non-profits that provided charitable services.
 
 
 ![OrganizingKits1]({{ site.url }}/images/2018/9/KollengodeDistributionKit/OrganizingKits1.jpeg)
 
 
-   They are on a hunger strike from the last four months to re-issue their certificates which ensures they belongs to tribal community and ensures the privileges available to them. 
-Sparsham offered all the help with in our limits by expressing our solidarity to their activities. RJ Manu delivered an inspiration speech mentioning the eminent 
-persons from the tribal communities.
+   They've been on a hunger strike for the past four months, demanding that their certificates be reissued, ensuring that they are members of the tribal community and may take use of the benefits offered to them. Sparsham extended every assistance within our means by expressing our support for their efforts. RJ Manu gave an energising address in which he mentioned prominent members of the tribal groups. 
 
 
 ![OrganizingKits2]({{ site.url }}/images/2018/9/KollengodeDistributionKit/OrganizingKits2.jpeg) 
 
 
-   Sayuj,Nithun, Prajesh and Vishnu represented the Sparsham and provided some information about Sparsham and also discussed various topics like importance of hygienic 
-environments. Also discussed about the importance of education to the next generation. We are happy that all the children in the settlement are school going and a few of 
-them attending college also. 
+   Sparsham was represented by Sayuj, Nithun, Prajesh, and Vishnu, who delivered information about Sparsham as well as discussing numerous themes such as the necessity of sanitary settings. Education's significance for future generations was also emphasised. We are pleased that all the children in the settlement are enrolled in school, with a few of them also attending college.
 
 ![InteractiveSession]({{ site.url }}/images/2018/9/KollengodeDistributionKit/InteractiveSession.jpeg) 
 
-The function was held in a small hall which is using for multipurpose activities including marriages, but it doesn't have any bathroom facilities. 
-Along with a request to aid them to arrange bathroom facilities and they requested to conduct awareness sessions. 
-In reply to these requests, Sayuj informed that these request will be present at the Executive Committee (EC) and will act on it based on the EC's decision. The meeting ended with a vote of thanks to the chair.
+The event was hosted in a tiny hall that is utilised for a variety of activities, including weddings, but lacks restroom facilities. They also requested that awareness programmes be held in addition to assisting them in arranging restroom facilities. In response to these requests, Sayuj stated that he will send them to the Executive Committee (EC) for consideration, and that they will act on them based on the EC's decision. The meeting came to a close with a vote of gratitude for the chairperson.
 
 
 ![Distribution]({{ site.url }}/images/2018/9/KollengodeDistributionKit/Distribution.jpg) 
 
 
 
-**Thanks & Hugs !**
+**Many thanks and Hugs!**
 
-Thanks to Madavettan, and other leaders from the tribal settlement to give us an opportunity to stand with the community and for the delicious lunch.
-R J Manu, from Calicut for accepting our humble request and changing his schedules and be part of the event & also for inspirational speech.
-All the friends who are not part of Sparsham, worked with us to make this event grand success.
-Hugs to all those , who joined to raise the funds for purchasing these items. 
+Thank you to Madavettan and other tribe leaders for allowing us to stand with the community and for providing a lovely lunch. Thank you to R.J. Manu of Calicut for accepting our humble request and rescheduling his schedule to attend the event, as well as for his motivational remarks. Thank you to all our friends who aren't Sparsham members but helped us make this event a huge success. Thank you to everyone who helped raise funds to purchase these products.
 
 
 ![SparshamTeam]({{ site.url }}/images/2018/9/KollengodeDistributionKit/SparshamTeam.jpeg) 
