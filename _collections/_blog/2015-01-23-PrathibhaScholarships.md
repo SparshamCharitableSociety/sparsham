@@ -11,13 +11,10 @@ header-img: ""
 image: "images/2015/prathibha.jpg"
 ---
 
-Prathibha Scholarships are an initiative of Sparsham. We are conducting this scholarship exams only on government schools and 
-award the scholarship amount for the top candidates. The amount of scholarship will vary from class as well as the location where
-school is situated. 
+Sparsham has launched the Prathibha Scholarships programme. We are conducting this scholarship exams for government schools and only the top candidates are awarded the scholarship money. The value of the scholarship varies depending on the class and the location of the school.
 
-All the exams were based on the syllabus of 8,9 and 10 classes. The official notification will be announced before the eligibility exams (Onam/Christmas Exams).
-Students scored above the cutt off criteria will be eligible for Pradibha. The assessment will be based on the syllabus for each class. 
+All the exams were based on the eighth, ninth, and tenth grade curriculum. Before the eligibility tests (Onam/Christmas Exams), the official notification will be released. Students who scored higher than the cutoff will be considered for Prathibha. The assessment will be based on each class's syllabus.
 
-We worked with management, staff and students of Nadavannur school to make this scholarship as a great sucess !
-We welcome all our members to Pradibha scholarship award ceremony at Govt. School, Nadavannur #kozhikode on 24th January 2015 at 4PM.
+We collaborated with Nadavannur School's management, staff, and students to make this scholarship a huge success! We cordially invite all of our members to the Prathibha scholarship award ceremony on January 24, 2015 at 4 p.m. at Govt. School, Nadavannur #kozhikode.
+
 

@@ -11,17 +11,12 @@ header-img: ""
 image: "images/2012/BloodDonationDrive.JPG"
 ---
 
-We had conducted a blood donation drive as part of our Gandhi Jayanthi Celebrations at Ernakulam District Hospital. The event
-was organized in association with Indian Red Cross Society and Blood Bank, District hospital. The event was inagurated by
-Prof. M K Sanoo. 
+As part of our Gandhi Jayanthi celebrations, we held a blood donation drive at Ernakulam District Hospital. The event was held in collaboration with the Indian Red Cross Society and the District Hospital's Blood Bank. Prof. M. K. Sanoo inaugurated the event.
 
-M. K. Sanu is a prominent Malayalam literary figure. He is a retired professor, critic, biographer, editor, translator, 
-journalist, orator, social activist and humanist. He has authored over thirty-six books, translated four and edited ten. 
-He is a permanent member of International body for Human rights. He is also the founding member of Mithram, 
-School for Mentally Handicapped, in Mulanthuruthy village,Ernakulam District, Kerala.
+Malayalam author M. K. Sanu is a well-known personality in the Malayalam literary world. He is a retired professor, critic, biographer, editor, translator, journalist, orator, social activist, and humanist. He has written 36 novels, translated four, and edited 10 others. He is a permanent member of the United Nations Human Rights Council. He is also the founding member of Mithram, a school for the mentally handicapped in Mulanthuruthy village, Ernakulam District, Kerala.
 
-The event was sucessfull and local newspapers covered it. Friends, colleages etc were gathered and they had an awarness on the
-blood donation after the session.
+The event was a success, and it was covered by a few local newspapers. Friends, colleagues, and others gathered, were made aware of the importance of blood donation after the session.
+
 
 ![Blood Donation Drive]({{ site.url }}/images/2012/BloodDonationDrive.JPG)
 

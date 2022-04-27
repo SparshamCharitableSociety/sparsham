@@ -10,6 +10,7 @@ tags: [Sparsham,How we started]
 header-img: ""
 image: "images/2012/theBegin.jpg"
 ---
+
 A group of friends with similar thoughts gathered an decided to work 
 together by sharing their time, money and dedication to join with millions
 for a better world, a better life situation for the new generations. 
@@ -48,6 +49,7 @@ its own bylaws and regulations. Sayuj and Akhil were responsible for these activ
 Ernakulam register office. 
 
 We soon got the registration approved and here is our registration certificate.
+
 ![Registration Certificate]({{ site.url }}/images/2012/sparshamregistercertificate.jpg)
 
 [Kailash Satyarthi]:[https://en.wikipedia.org/wiki/Kailash_Satyarthi]
