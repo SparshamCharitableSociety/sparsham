@@ -152,7 +152,7 @@ button:focus {
   display: inline-block;
   background: #60bc0f;
   padding: 0px 50px;
-  color: #fff;
+  color: #000;
   font-family: "Roboto", sans-serif;
   font-size: 12px;
   font-weight: 500;
@@ -167,12 +167,13 @@ button:focus {
   transition: all 300ms linear 0s; }
   .primary_btn:hover {
     background: transparent;
-    color: #60bc0f; }
+    color: #fff; }
   .primary_btn.yellow_btn {
     background: #fdbb00 !important;
     border: 1px solid #fdbb00 !important;
     color: #000000; }
     .primary_btn.yellow_btn:hover {
+      color: #000;
       background: transparent !important; }
 
 /*---------------------------------------------------- */
@@ -293,8 +294,12 @@ button:focus {
   z-index: 1;
   min-height: 900px;
   display: flex;
+  text-shadow: 5px 5px 20px rgb(0 0 0 / 90%);
   background: linear-gradient(rgba(3, 1, 10, 0.5), rgba(3, 1, 10, 0.5)), url(../img/banner/home-banner.jpg) no-repeat scroll center center;
   background-size: cover; }
+  .home_banner_area .yellow_btn:hover {
+    color: #fff;
+  }
   .home_banner_area .banner_inner {
     width: 100%;
     display: flex; }
@@ -638,11 +643,18 @@ button:focus {
 /* Start CTA Area css
 ============================================================================================ */
 .cta-area {
-  background: #60bc0f;
+  background: #60bc0fb3;
   background-size: cover;
   text-align: center;
-  color: #fff;
+  color: #000;
   z-index: 1; }
+.cta-area b,
+.cta-area sup,
+.cta-area sub,
+.cta-area u,
+.cta-area del {
+  color: #000;
+}
   .cta-area.overlay:after {
     background: #000;
     opacity: .5; }

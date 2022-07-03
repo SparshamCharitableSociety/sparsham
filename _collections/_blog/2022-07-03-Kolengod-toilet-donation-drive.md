@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sparsham Charitable Society has decided to construct two toilets in Puthanpadam tribal village."
-subtitle: "There is not even a single toile for about 100 people living in this village."
+subtitle: "There is not even a single toilet for about 100 people living in this village."
 date: 2022-06-26 18:30
 author: "Sparsham"
 comments: true
