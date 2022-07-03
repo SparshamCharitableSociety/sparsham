@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Sparsham Charitable Society has decided to construct two toilets in Puthanpadam tribal village."
-subtitle: "There is not even a single toile for about 100 people living in this village "
+subtitle: "There is not even a single toile for about 100 people living in this village."
 date: 2022-06-26 18:30
 author: "Sparsham"
 comments: true
-categories: [Payment,2020]
-tags: [Donation, Kollengod, Charity]
+categories: [Tribal Settlement,2022]
+tags: [Donation, Kollengod, Charity, Tribal Settlement]
 header-img: ""
 image: "images/2022/2022ToiletDonation.png"
 ---
@@ -24,11 +24,7 @@ Secretary/President
 Sparsham Charitable Society
 
 #### UPI ID ####
- **sparsham@sbi**
-Account number: 33908620453
-IFSC: SBIN0031449
 
-
-
-
-[UPI]: https://en.wikipedia.org/wiki/Unified_Payments_Interface]
+***sparsham@sbi***<br />
+Account number: 33908620453<br />
+IFSC: SBIN0031449<br />
